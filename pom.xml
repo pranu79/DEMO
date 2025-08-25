@@ -11,7 +11,7 @@
 	<groupId>com.demo</groupId>
 	<artifactId>Demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RabbitMQProj-1</name>
+	<name>DEMO</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
